@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-label="Gems — Minecraft powers &amp; progression">
+<style>text{font-family:Consolas,"Liberation Mono","DejaVu Sans Mono",monospace;font-weight:400} .name{fill:#cbd0d7} .detail{fill:#9198a3} .line{fill:none;stroke:#414750;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round} .accent{fill:none;stroke:#d65454;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}</style>
+<rect width="1200" height="76" fill="#0b0b0d"/>
+<path class="line" d="M46 75H1154"/><text x="46" y="47" class="detail" font-size="20">08</text>
+<text x="116" y="48" class="name" font-size="34" letter-spacing="-1">Gems</text>
+<text x="454" y="46" class="detail" font-size="24">Minecraft powers &amp; progression</text><path class="accent" d="M1131 36h22m-11 -11 11 11-11 11"/>
+</svg>

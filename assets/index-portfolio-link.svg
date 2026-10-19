@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-label="Explore my portfolio at elfeel.me">
+<style>text{font-family:Consolas,"Liberation Mono","DejaVu Sans Mono",monospace;font-weight:400} .name{fill:#cbd0d7} .detail{fill:#9198a3} .line{fill:none;stroke:#414750;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round} .accent{fill:none;stroke:#d65454;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}</style>
+<rect width="1200" height="112" fill="#0b0b0d"/>
+
+<path class="accent" d="M46 1h68"/><path class="line" d="M126 1H1154"/>
+<text x="46" y="67" class="name" font-size="34" letter-spacing="-.8">Explore my portfolio</text>
+<text x="914" y="65" class="detail" font-size="24">elfeel.me</text><path class="accent" d="M1130 55h24m-12 -12 12 12-12 12"/>
+</svg>

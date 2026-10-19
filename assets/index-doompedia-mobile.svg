@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="208" viewBox="0 0 600 208" role="img" aria-label="Doompedia — offline Wikipedia discovery">
-<style>text{font-family:Consolas,"Liberation Mono","DejaVu Sans Mono",monospace;font-weight:400} .name{fill:#cbd0d7} .detail{fill:#9198a3} .line{fill:none;stroke:#414750;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round} .accent{fill:none;stroke:#d65454;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}</style>
-<rect width="600" height="208" fill="#0b0b0d"/>
-<path class="line" d="M34 207H566"/><path class="accent" d="M0 32v48"/>
-<text x="34" y="32" class="detail" font-size="17" letter-spacing="2">02 / FEATURED</text>
-<text x="32" y="99" class="name" font-size="49" letter-spacing="-2">Doompedia</text><text x="34" y="143" class="detail" font-size="26">Wikipedia discovery for iOS</text><text x="34" y="173" class="detail" font-size="26">and Android, available offline.</text><path class="accent" d="M538 79h24m-12 -12 12 12-12 12"/>
-</svg>

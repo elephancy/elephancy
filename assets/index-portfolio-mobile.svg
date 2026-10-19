@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="112" viewBox="0 0 600 112" role="img" aria-label="Portfolio — personal website">
-<style>text{font-family:Consolas,"Liberation Mono","DejaVu Sans Mono",monospace;font-weight:400} .name{fill:#cbd0d7} .detail{fill:#9198a3} .line{fill:none;stroke:#414750;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round} .accent{fill:none;stroke:#d65454;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}</style>
-<rect width="600" height="112" fill="#0b0b0d"/>
-<path class="line" d="M34 111H566"/><text x="34" y="43" class="name" font-size="36" letter-spacing="-.8">Portfolio</text>
-<text x="34" y="84" class="detail" font-size="26">personal website</text><path class="accent" d="M540 39h20m-10 -10 10 10-10 10"/>
-</svg>

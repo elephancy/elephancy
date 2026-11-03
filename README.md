@@ -18,3 +18,5 @@
 <a href="https://github.com/elephancy/Portfolio"><picture><img src="assets/nav-portfolio.svg?v=8e62d67ca8e0" width="110" height="44" alt="Portfolio"></picture></a>
 <a href="https://elfeel.me"><picture><img src="assets/nav-website.svg?v=8e62d67ca8e0" width="110" height="44" alt="elfeel.me"></picture></a>
 </p>
+
+Try the live projects: [SystemForge](https://systemforge.elfeel.me/) · [MANTA](https://bachelor.elfeel.me/) · [TypeShift](https://typeshift.elfeel.me/).
